@@ -6,6 +6,7 @@ import HowItWorks from '@/components/HowItWorks'
 import ForWhom from '@/components/ForWhom'
 import Testimonials from '@/components/Testimonials'
 import Impact from '@/components/Impact'
+import InterestForm from '@/components/InterestForm'
 import Footer from '@/components/Footer'
 import WhatsAppButton from '@/components/WhatsAppButton'
 
@@ -20,6 +21,7 @@ export default function Home() {
       <ForWhom />
       <Testimonials />
       <Impact />
+      <InterestForm />
       <Footer />
       <WhatsAppButton />
     </main>
